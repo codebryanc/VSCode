@@ -1,4 +1,4 @@
-import { SuperHeroe } from './extra/classes';
+import { SuperHeroe as SuperHeroe } from './extra/classes';
 
 /*
     Objetivo:
@@ -22,4 +22,3 @@ function saludar() {
 function gritar() {
     return 'El SuperHeroe en este string no se debe de cambiar';
 }
-
