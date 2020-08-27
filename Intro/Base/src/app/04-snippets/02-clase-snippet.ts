@@ -13,8 +13,8 @@ export class NuevoSuperHeroe {
     }
 }
 
-
-
-
-
-
+export class helloMundo {
+   constructor() {
+      "holaque mas"
+   }
+}
